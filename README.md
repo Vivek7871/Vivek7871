@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **vsah1474@gmail.com**
 
-- ⚡Fun fact :) **I treat each coding problem like a puzzle — and I won’t sleep until it’s solved (unless it’s 1 AM, then I sleep 😅)**
+- ⚡ Fun fact **I treat each coding problem like a puzzle — and I won’t sleep until it’s solved (unless it’s 1 AM, then I sleep 😅)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vivek-shah8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vivek-shah8" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vivk_09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vivk_09/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/vivekshah09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vivekshah09/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
