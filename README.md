@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vsah1474@gmail.com**
 
-- ⚡ Fun fact: **I treat each coding problem like a puzzle — and I won’t sleep until it’s solved (unless it’s 1 AM, then I sleep 😅)**
+- ⚡Fun fact :) **I treat each coding problem like a puzzle — and I won’t sleep until it’s solved (unless it’s 1 AM, then I sleep 😅)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
